@@ -15,6 +15,3 @@ Get-FileHash cisco-vlan-windows-x64.zip -Algorithm SHA256
 ```
 
 The hash must match the one in `cisco-vlan-windows-x64.zip.sha256`.
-
-This repository only hosts the builds; the source code is maintained privately by VCTech.
-© 2026 VCTech.
