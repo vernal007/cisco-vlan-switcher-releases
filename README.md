@@ -2,7 +2,7 @@
 
 Windows downloads of **Cisco VLAN Switcher** by VCTech: a desktop app and command-line tool for
 changing access-port VLANs, voice VLANs and descriptions on Cisco switches. Each person logs in
-with their own username, password and second factor, so every change is tied to a real person.
+with their own username, password and second factor, so every change is tied to a real person..
 
 **[Download the latest version](https://github.com/vernal007/cisco-vlan-switcher-releases/releases/latest)**
 
